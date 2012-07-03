@@ -1,0 +1,28 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    i18n_domain="collective.ptg.pikachoose">
+
+    <browser:resourceDirectory
+        name="ptg.pikachoose"
+        directory="resources"
+        />
+
+    <adapter
+        for="collective.plonetruegallery.interfaces.IGallery"
+        provides=".IPikachooseDisplaySettings"
+        factory=".PikachooseSettings" />
+
+    <browser:page
+        for="collective.plonetruegallery.interfaces.IGallery"
+        name="galleryview-pikachoose"
+        class=".PikachooseDisplayType"
+        template="pikachoose.pt"
+        permission="zope2.View" />
+
+    <utility
+        component=".PikachooseDisplayType"
+        provides="collective.plonetruegallery.interfaces.IDisplayType"
+        name="galleryview-pikachoose" />
+
+</configure>
