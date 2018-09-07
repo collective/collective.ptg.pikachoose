@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: collective.ptg.pikachoose VERSION\n"
+"POT-Creation-Date: 2018-08-18 04:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: collective.ptg.pikachoose\n"
+
+#. Default: "Dark"
+#: ./__init__.py:27
+msgid "label_backgroundcolors"
+msgstr ""
+
+#. Default: "Grey"
+#: ./__init__.py:29
+msgid "label_backgroundcolors2"
+msgstr ""
+
+#. Default: "Offwhite"
+#: ./__init__.py:31
+msgid "label_backgroundcolors3"
+msgstr ""
+
+#. Default: "White"
+#: ./__init__.py:33
+msgid "label_backgroundcolors4"
+msgstr ""
+
+#. Default: "backgroundcolor"
+#: ./__init__.py:22
+msgid "label_pikachoose_backgroundcolor"
+msgstr ""
+
+#. Default: "Show caption"
+#: ./__init__.py:40
+msgid "label_pikachoose_caption"
+msgstr ""
+
+#. Default: "Pikachoose"
+#: ./__init__.py:71
+msgid "label_pikachoose_display_type"
+msgstr ""
+
+#. Default: "Height of the gallery in pixels"
+#: ./__init__.py:17
+msgid "label_pikachoose_height"
+msgstr ""
+
+#. Default: "Show tooltip"
+#: ./__init__.py:37
+msgid "label_pikachoose_tooltip"
+msgstr ""
+
+#. Default: "Transition"
+#: ./__init__.py:46
+msgid "label_pikachoose_transition"
+msgstr ""
+
+#. Default: "Vertical"
+#: ./__init__.py:43
+msgid "label_pikachoose_vertical"
+msgstr ""
+
+#. Default: "Width of the gallery in pixels"
+#: ./__init__.py:12
+msgid "label_pikachoose_width"
+msgstr ""
+
+#. Default: "Full frame cross fade"
+#: ./__init__.py:50
+msgid "label_transitions"
+msgstr ""
+
+#. Default: "Paneled fold out"
+#: ./__init__.py:52
+msgid "label_transitions2"
+msgstr ""
+
+#. Default: "Horizontal blinds"
+#: ./__init__.py:54
+msgid "label_transitions3"
+msgstr ""
+
+#. Default: "Vertical blinds"
+#: ./__init__.py:56
+msgid "label_transitions4"
+msgstr ""
+
+#. Default: "Small box random fades"
+#: ./__init__.py:58
+msgid "label_transitions5"
+msgstr ""
+
+#. Default: "Full image blind slide"
+#: ./__init__.py:60
+msgid "label_transitions6"
+msgstr ""
+
+#. Default: "Fade out then fade in"
+#: ./__init__.py:62
+msgid "label_transitions7"
+msgstr ""
