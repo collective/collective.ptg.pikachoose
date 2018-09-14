@@ -4,6 +4,9 @@ Changelog
 1.0.5 (unreleased)
 ------------------
 
+- Added more keywords and strings classifiers items and updated others items 
+  for this package [macagua]
+
 - Added Spanish translation [macagua]
 
 - Added i18n support generating Gettext files 
